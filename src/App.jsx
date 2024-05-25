@@ -28,7 +28,7 @@ function App() {
 
   return (
     <Provider store={S}>
-      <BrowserRouter>
+      <HashRouter>
         <Navbar />
         <Routes>
           <Route path='/' element={<Home />} />
@@ -36,7 +36,7 @@ function App() {
           <Route path='/add' element={<Add />} />
           <Route path='/modify' element={<Modify />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </Provider>
   )
 }

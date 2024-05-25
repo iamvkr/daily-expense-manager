@@ -6,7 +6,7 @@ This project is build using React js Vite -Next Generation Frontend Tooling
 
 ## Link
 
-Website: https://iamvkr.github.io/daily-expense-manager/
+Website: https://iamvkr.github.io/daily-expense-manager/dist/
 
 
 ## 🛠 Tech Stack
